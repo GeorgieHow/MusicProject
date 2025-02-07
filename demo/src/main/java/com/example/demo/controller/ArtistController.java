@@ -1,7 +1,7 @@
-package main.java.com.example.demo.controller;
+package com.example.demo.controller;
 
-import main.java.com.example.demo.model.Artist;
-import main.java.com.example.demo.repository.ArtistRepository;
+import com.example.demo.model.Artist;
+import com.example.demo.repository.ArtistRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
